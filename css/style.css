@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@200&display=swap');
+* {
+    font-family: 'Overpass', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.tengah {
+    text-align: center;
+}
+
+.rata {
+    display: block;
+    margin: auto;
+}
+
+#home {
+    background-color: #f4f4f2;
+    border-radius: 10px;
+}
+
+#about {
+    background-color: #eeeded;
+    border-radius: 10px;
+}
