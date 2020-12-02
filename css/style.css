@@ -24,13 +24,13 @@
 #home {
     background-color: #f8f8f8;
     border-radius: 10px;
-    padding: 4rem;
+    padding: 2rem;
 }
 
 #about {
     background-color: #f8f8f8 !important;
     border-radius: 10px;
-    padding: 4rem;
+    padding: 2rem;
 }
 
 .card {
@@ -47,6 +47,8 @@
 
 .lab {
     font-size: 10rem;
+    margin: auto;
+    display: block;
 }
 
 .la-github {
@@ -73,5 +75,5 @@
 #contact {
     background-color: #f8f8f8 !important;
     border-radius: 10px;
-    padding: 4rem;
+    padding: 2rem;
 }
