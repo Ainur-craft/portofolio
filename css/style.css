@@ -28,19 +28,19 @@
 }
 
 #about {
-    background-color: #696969 !important;
+    background-color: #f8f8f8 !important;
     border-radius: 10px;
     padding: 4rem;
 }
 
 .card {
-    border-color: #696969;
-    background: #696969;
-    color: #f8f8f8;
+    border-color: #f8f8f8;
+    background: #f8f8f8;
+    /* color: #f8f8f8; */
+    box-shadow: 0 0 40px rgba(51, 51, 51, 0.5);
 }
 
 .card:hover {
-    box-shadow: 0 0 40px rgba(51, 51, 51, 1);
-    background-color: #f8f8f8;
-    color: #696969;
+    transform: translateY(-15px);
+    transition: all .3s ease-in-out;
 }
