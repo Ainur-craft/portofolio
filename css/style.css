@@ -44,3 +44,28 @@
     transform: translateY(-15px);
     transition: all .3s ease-in-out;
 }
+
+.lab {
+    font-size: 10rem;
+}
+
+.la-github {
+    color: black;
+}
+
+.github:hover {
+    color: #f8f8f8 !important;
+    background-color: black;
+}
+
+.github:hover a i {
+    color: #f8f8f8 !important;
+}
+
+.telegram:hover {
+    background-color: #007bff;
+}
+
+.telegram:hover a i {
+    color: #f8f8f8;
+}
