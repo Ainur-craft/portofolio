@@ -69,3 +69,9 @@
 .telegram:hover a i {
     color: #f8f8f8;
 }
+
+#contact {
+    background-color: #f8f8f8 !important;
+    border-radius: 10px;
+    padding: 4rem;
+}
